@@ -68,4 +68,4 @@ And don’t forget to replace `<YOUR-GEMINI-API-KEY-HERE>` with your API key.
 
 ## 🚀 License
 
-This project is **open-source** and was created by [ErnaneJ](https://github.com/ErnaneJ). Feel free to modify, improve, and share it.
+This project is **open-source**. Feel free to modify, improve, and share it.
